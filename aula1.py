@@ -1,5 +1,5 @@
 print ('Ola Mundo!')
-
+//apagar
 print (1+1)
 
 nome = input('Qual o seu nome? ')
